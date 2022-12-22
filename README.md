@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Badr Helal, Student at Al-Shorouk Academy and Graduated from Web Development from Udacity.
+- 👋 Hi, I’m Badr Helal, Student at Al-Shorouk Academy and Graduated from Web Development from Udacity and NTI as a MEAN Stack Developer.
 - 👀 I’m interested in Web Development and full stack application.
 - 🌱 I’m currently learning Computer science.
 - 💞️ I’m looking to collaborate on A professional team capable of building mega projects
